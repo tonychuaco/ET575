@@ -1,4 +1,4 @@
-# Assignment 1, #1
+# Assignment 1: Introduction, #1
 
 C# console app that reads inputs from the console and outputs them.
 
