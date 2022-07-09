@@ -1,4 +1,4 @@
-# Assignment 1, #2
+# Assignment 1: Introduction, #2
 
 C# console app to output in column format, e.g. a receipt layout.
 
