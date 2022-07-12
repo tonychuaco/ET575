@@ -10,3 +10,4 @@ Originally an introduction course to C++ Programming and Design.
 - Assignment 3: Variables
   - [Project 3-1: Explicit Casting (C#)](https://github.com/tonychuaco/ET575/tree/Assignment3-1)
   - [Project 3-2: Implicit Casting (C#)](https://github.com/tonychuaco/ET575/tree/Assignment3-2)
+  - [Project 3-3: Misc. Type Casting (C#)](https://github.com/tonychuaco/ET575/tree/Assignment3-3)
